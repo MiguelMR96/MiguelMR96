@@ -7,6 +7,8 @@
 Software developer who enjoys to facing new challenges and learning new technologies.
 
 ### Skills 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw1UBq8LKAv92vFY_Ww7Tms1&ust=1611725458567000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjr5q3vuO4CFQAAAAAdAAAAABAD">
+
 HTML / CSS / C / PYTHON / MYSQL / FLASK
 
 ### Connect with me:
