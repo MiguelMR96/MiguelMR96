@@ -4,8 +4,8 @@
 
 #### Full Stack Software Developer
 
-Software developer who enjoys facing new challenges and learning new technologies.
-- 👯 Looking to collaborate on learning new languages.
+Software developer who enjoys facing new challenges.
+- 👯 Looking to collaborate on learning new technologies.
 - 📫 Contact me: miguelmontoyaramirez96@gmail.com
 
 ### Skills 
