@@ -21,7 +21,7 @@ HTML / CSS / C / PYTHON / MYSQL
 ### Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMR96&layout=compact&theme=highcontrast&langs_count=10")
-![GitStats](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMR96&theme=radical&layout=compact&hide_border=true&count_private=true)
+![GitStats](https://github-readme-stats.vercel.app/api?username=MiguelMR96&theme=highcontrast&show_icons=true)
 
 </br>
 
