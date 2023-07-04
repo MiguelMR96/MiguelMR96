@@ -4,9 +4,9 @@
 
 #### Full Stack Software Developer
 
-Software developer who enjoys facing new challenges.
-- 👯 Looking to collaborate on learning new technologies.
-- 📫 Contact me: miguelmontoyaramirez96@gmail.com
+A software developer who enjoys facing new challenges.
+- 👯 Looking to collaborate on exciting projects.
+- 📫 Contact me via email: miguelmontoyaramirez96@gmail.com
 
 ### Skills 
 
@@ -18,17 +18,27 @@ Software developer who enjoys facing new challenges.
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiguelMR96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-montoya-r/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miguelmr05)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-montoya-r/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miguelmr05)  
 
 <br />
 
 ### Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMR96&layout=compact&theme=highcontrast&langs_count=10")
-![GitStats](https://github-readme-stats.vercel.app/api?username=MiguelMR96&theme=highcontrast&show_icons=true)
-
+<div>
+  <a href="https://github.com/MiguelMR96">
+    <img
+         height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelMR96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    />
+    <img
+         height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelMR96&layout=compact&langs_count=8&theme=dark"
+    />
+  </a>
+</div>
 </br>
-
-[twitter]: https://twitter.com/miguelmr05
-[linkedin]: https://linkedin.com/in/miguel-montoya-r/
+<div>
+  <img src="https://streak-stats.demolab.com?user=MiguelMR96&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
