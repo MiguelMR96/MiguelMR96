@@ -1,44 +1,40 @@
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<h1 align="center">Hi, I'm Miguel Montoya 👋</h1>
 
-### Hi there, I'm Miguel Montoya 👋
+<h3 align="center">Software Engineer · Web & Cloud</h3>
 
-#### Full Stack Software Developer
+<p align="center">
+Full-stack engineer focused on web applications and cloud backends.<br>
+I build APIs and services with Node.js and work hands-on with PostgreSQL and AWS.<br>
+Currently studying Systems Engineering and exploring backend development with Python & FastAPI.
+</p>
 
-A software developer who enjoys facing new challenges.
-- 👯 Looking to collaborate on exciting projects.
-- 📫 Contact me via email: miguelmontoyaramirez96@gmail.com
+---
 
-### Skills 
+### 🛠️ Tech Stack
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+**Languages:** JavaScript · Python · SQL · C
+**Backend:** Node.js · Express.js · REST APIs
+**Frontend:** React.js · HTML · CSS
+**Databases:** PostgreSQL · MySQL
+**Cloud & DevOps:** AWS (EC2, S3, RDS, CloudWatch, Elastic Beanstalk) · Git · Linux
 
-### Connect with me:
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/miguel-montoya-r/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miguelmr05)  
+### 🚀 What I'm working on
 
-<br />
+- 🔭 Building a face-recognition attendance platform (**Assisly**) with FastAPI, PostgreSQL & pgvector
+- 🌱 Deepening my backend skills in Python and exploring agentic AI
+- 🎓 Studying Systems Engineering at Politécnico Grancolombiano
 
-### Languages:
+---
 
-<div>
-  <a href="https://github.com/MiguelMR96">
-    <img
-         height="180em"
-         src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelMR96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    />
-    <img
-         height="180em"
-         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelMR96&layout=compact&langs_count=8&theme=dark"
-    />
-  </a>
-</div>
-</br>
-<div>
-  <img src="https://streak-stats.demolab.com?user=MiguelMR96&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-montoya-r/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miguelmontoyaramirez96@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMR96&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Miguel's GitHub stats" />
+</p>
