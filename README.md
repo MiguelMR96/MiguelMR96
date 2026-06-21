@@ -18,7 +18,7 @@ Currently studying Systems Engineering and growing my backend skills with Python
 
 <br>
 
-<h2>🛠️ Tech Stack</h2>
+<strong>🛠️ Tech Stack</strong>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -60,7 +60,7 @@ Currently studying Systems Engineering and growing my backend skills with Python
 
 <br><br>
 
-<h2>🚀 What I'm working on</h2>
+<strong>🚀 What I'm working on</strong>
 
 <ul>
   <li>🛰️ Building a face-recognition attendance platform (<strong>Assisly</strong>) with FastAPI, PostgreSQL &amp; pgvector</li>
@@ -70,7 +70,7 @@ Currently studying Systems Engineering and growing my backend skills with Python
 
 <br>
 
-<h2>📊 GitHub Stats</h2>
+<strong>📊 GitHub Stats</strong>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelMR96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Miguel's GitHub stats" />
