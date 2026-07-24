@@ -47,9 +47,3 @@ Currently studying Systems Engineering and learning agentic AI (LangGraph, MCP).
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 <sub>AWS hands-on: EC2 · S3 · RDS · Lambda · CloudWatch · SNS · Elastic Beanstalk</sub>
-<br><br>
-<strong>📊 GitHub Stats</strong>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiguelMR96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Miguel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMR96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
